@@ -1,0 +1,10 @@
+ocn reliability is higher when using a
+monospaced font than a proportional
+font since the separation of
+proportional chanacters would be
+harder and that is the reason why i
+used this font 
+
+this image is the input to the ocr 
+which will then be converted to a txt
+file
